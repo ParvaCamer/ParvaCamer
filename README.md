@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ## Hello there ! 🙋🏻‍♂️
 
 - 👨🏻‍💻 Junior Frontend developer
-- 🔭 I’m currently working on <a href="https://github.com/ParvaCamer/weather-app">my weather project</a> in **VueJs**
-- 🌱 I’m currently learning **Vuetify** / **NuxtJs**
+- 🔭 I’m currently working on <a href="https://github.com/ParvaCamer/weather-app">my weather project</a> in **VueJs
+- 🌱 I’m currently learning **SASS
 - 📄 Know about my experiences : <a href="https://www.linkedin.com/in/romain-camerlynck-b974a6177/">Romain Camerlynck</a>
 - 📫 How to reach me: 
 
