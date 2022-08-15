@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vuetify / NuxtJs
 - 📫 How to reach me: 
 
-<a href="https://www.linkedin.com/in/romain-camerlynck-b974a6177/"><img width=30 src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/romain-camerlynck-b974a6177/"><img width=25 src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a> <a href="mailto:romain.camerlynck@gmail.com"><img width=50 src="https://camo.githubusercontent.com/bcc58f157219364df29952ac9d40f27bef158ff118b1016eddc5fcb2d526f259/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d626c75653f6c6f676f3d456d61696c266c6f676f436f6c6f723d7768697465"></a>
