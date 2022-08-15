@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 - 👨🏻‍💻 Junior Frontend developer
 - 🔭 I’m currently working with VueJs
-- 📫 How to reach me:
+- 🌱 I’m currently learning Vuetify / NuxtJs
+- 📫 How to reach me: 
+
+<a href="https://www.linkedin.com/in/romain-camerlynck-b974a6177/"><img width=30 src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
