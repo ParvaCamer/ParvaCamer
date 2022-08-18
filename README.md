@@ -13,4 +13,4 @@
 ***
 ## Who am I ?
 My name is Romain Camerlynck. I live in Lille, in the north of France.<br>
-I am an self-taught Frontend developer since 3 years. I did a program for Frontend developer by OpenClassrooms.
+I am a self-taught Frontend developer since 3 years. I did a program for Frontend developer by OpenClassrooms.
