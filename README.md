@@ -14,7 +14,7 @@
 ***
 ## Who am I ?
 My name is Romain Camerlynck. I live in Lille, in the north of France.<br>
-I am a self-taught Frontend developer since 3 years. I did a program for Frontend developer by OpenClassrooms.
+I am a self-taught Frontend developer since 3 years. I did a program for Frontend developer by OpenClassrooms. I am also freelance since one year.
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
