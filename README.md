@@ -1,8 +1,8 @@
 ## Hello there ! 🙋🏻‍♂️
 
 # 💫 About Me:
-- 👨🏻‍💻 Junior Frontend developer
-- 🔭 I’m currently working on <a href="https://github.com/ParvaCamer/weather-app">my weather project</a> in **VueJs**
+- 👨🏻‍💻 Junior Frontend developer working with Vue.js
+- 🔭 I’m currently working on a calculator app
 - 🌱 I’m currently learning **Tailwind**
 - 📄 Know about my experiences : <a href="https://www.linkedin.com/in/romain-camerlynck-b974a6177/">Romain Camerlynck</a>
 - 📫 How to reach me: 
