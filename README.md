@@ -3,7 +3,7 @@
 # 💫 About Me:
 - 👨🏻‍💻 Junior Frontend developer working with Vue.js
 - 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning **Pinia**
+- 🌱 I’m currently learning **TailwindCss**
 - 📄 Know about my experiences : <a href="https://www.linkedin.com/in/romain-camerlynck-b974a6177/">Romain Camerlynck</a>
 - 📫 How to reach me: 
 
