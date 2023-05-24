@@ -1,9 +1,9 @@
 ## Hello there ! 🙋🏻‍♂️
 
 # 💫 About Me:
-- 👨🏻‍💻 Junior Frontend developer working with Vue.js
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **TailwindCss**
+- 👨🏻‍💻 Junior Frontend developer working with Vue.js / React.js
+- 🔭 I’m currently working on the new version of Medical Exercices
+- 🌱 I’m currently learning **TailwindCss** and **MongoDB**
 - 📄 Know about my experiences : <a href="https://www.linkedin.com/in/romain-camerlynck-b974a6177/">Romain Camerlynck</a>
 - 📫 How to reach me: 
 
